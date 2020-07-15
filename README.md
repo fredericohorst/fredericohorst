@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi 👋
+
+I'm a data specialist at [Contabilizei](https://www.contabilizei.com.br), an accounting startup in Brazil. I like to design data products and solutions, and I love to understand things through data. Prior to Contabilizei, I worked at [Yara](https://www.yara.com), [RBS](https://www.gruporbs.com.br/) and [Getnet](https://site.getnet.com.br), always with a data driven mind. 
 
 <!--
 **fredericohorst/fredericohorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I graduated in Economics and I like to read about it in my free time.
+Most of my work is in BigQuery and other GCP products and I usually use Python.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
