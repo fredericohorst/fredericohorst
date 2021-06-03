@@ -1,6 +1,22 @@
 ### Hi 👋
 
-I'm a data specialist at [Contabilizei](https://www.contabilizei.com.br), an accounting startup in Brazil. I like to design data products and solutions, and I love to understand things through data. Prior to Contabilizei, I worked at [Yara](https://www.yara.com), [RBS](https://www.gruporbs.com.br/) and [Getnet](https://site.getnet.com.br), always with a data driven mind. 
+my name is Frederico and I like to design data products and solutions, and I love to understand things through data.
+
+💻 I'm a Data Scientist at [Trio - Open Banking as a Service](https://share.trio.com.br/home), a brazilian startup. Prior to Trio, I helped to create the Data Team at [Contabilizei](https://www.contabilizei.com.br) and worked at [Yara](https://www.yara.com), [RBS](https://www.gruporbs.com.br/) and [Getnet](https://site.getnet.com.br), always with a data driven mind.
+
+I've already worked with:
+- Python
+- Spark / GCP Dataproc
+- SQL and NoSQL databases
+- Docker
+- GCP Data Products and Cloud Infraestructure
+- QlikView
+- SAP
+
+Find me online 📫
+- [LinkedIn](https://www.linkedin.com/in/fredericohorst/)
+- [Twitter](https://twitter.com/fredericohorst)
+- [Medium](https://medium.com/@fredericohorst)
 
 <!--
 **fredericohorst/fredericohorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
