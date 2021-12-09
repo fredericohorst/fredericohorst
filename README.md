@@ -6,12 +6,12 @@ my name is Frederico and I like to design data products and solutions, and I lov
 
 I've already worked with:
 - Python
-- Spark / GCP Dataproc
+- Spark / GCP Dataproc / AWS Glue / Databricks
 - SQL and NoSQL databases
 - Docker
 - GCP Data Products and Cloud Infraestructure
-- QlikView
-- SAP
+- AWS Data Products
+- Metabase, QlikView, SAP
 
 Find me online 📫
 - [LinkedIn](https://www.linkedin.com/in/fredericohorst/)
