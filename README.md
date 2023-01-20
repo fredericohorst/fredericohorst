@@ -2,10 +2,12 @@
 
 my name is Frederico and I like to design data products and solutions, and I love to understand things through data.
 
-💻 I'm a Data Scientist at [Trio - Open Banking as a Service](https://share.trio.com.br/home), a brazilian startup. Prior to Trio, I helped to create the Data Team at [Contabilizei](https://www.contabilizei.com.br) and worked at [Yara](https://www.yara.com), [RBS](https://www.gruporbs.com.br/) and [Getnet](https://site.getnet.com.br), always with a data driven mind.
+💻 I'm currently working at [Localiza](https://www.localiza.com/) as a Data Engineer. Prior to Localiza, I worked as a Data Scientist at [Trio - Open Banking as a Service](https://share.trio.com.br/home), a brazilian startup and helped to create the Data Team at [Contabilizei](https://www.contabilizei.com.br).
 
 I've already worked with:
 - Python
+- Airflow
+- GCP Dataflow
 - Spark / GCP Dataproc / AWS Glue / Databricks
 - SQL and NoSQL databases
 - Docker
@@ -17,6 +19,7 @@ Find me online 📫
 - [LinkedIn](https://www.linkedin.com/in/fredericohorst/)
 - [Twitter](https://twitter.com/fredericohorst)
 - [Medium](https://medium.com/@fredericohorst)
+- [StackOverflow](https://stackoverflow.com/users/4423770)
 
 <!--
 **fredericohorst/fredericohorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
