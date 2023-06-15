@@ -2,7 +2,7 @@
 
 my name is Frederico and I like to design data products and solutions, and I love to understand things through data.
 
-💻 I'm currently working at [Localiza](https://www.localiza.com/) as a Data Engineer. Prior to Localiza, I worked as a Data Scientist at [Trio - Open Banking as a Service](https://share.trio.com.br/home) and helped to create the Data Team at [Contabilizei](https://www.contabilizei.com.br).
+💻 I'm currently working at [Localiza](https://www.localiza.com/) as a Data Engineer. Prior to Localiza, I worked as a Data Scientist at [Trio - Open Banking as a Service](https://www.trio.com.br/) and helped to create the Data Team at [Contabilizei](https://www.contabilizei.com.br).
 
 I've already worked with:
 - Python
